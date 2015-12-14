@@ -1743,7 +1743,7 @@
 		"currency": ["XAF"],
 		"callingCode": ["236"],
 		"capital": "Bangui",
-		"altSpellings": ["CF", "Central African Republic", "R\u00e9publique centrafricaine"],
+		"altSpellings": ["CAR","CF", "Central African Republic", "R\u00e9publique centrafricaine"],
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
